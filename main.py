@@ -1,3 +1,8 @@
-from func import give_books
+import func
 
-give_books()
+def main():
+   func.give_books() 
+
+if __name__ == "__main__":
+   main()
+  
